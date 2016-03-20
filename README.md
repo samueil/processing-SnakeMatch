@@ -1,4 +1,4 @@
-# snakeMatch
+# SnakeMatch
 made with processing
 play it here: http://samuil.rasalhague.uberspace.de/snakematch.html
 
